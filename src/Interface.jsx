@@ -34,7 +34,7 @@ console.log(pegarDado)
   // const testeDia = dados.dia
   // console.log(testeDia)
   
-  const dadosFatu = [65, 59, 80, 81,19,20,25]
+  const dadosFatu = [65, 59, 80, 81,19,20,25,22,54,59,32]
   
   const data = {
   
