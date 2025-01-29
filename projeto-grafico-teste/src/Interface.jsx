@@ -38,10 +38,10 @@ console.log(pegarDado)
   
 
   const cores = {
-    terrenos: 'rgba(255, 92, 120, 1)',
-    lojasP: 'rgb(118, 22, 43)',
-    lojasM: 'rgb(34, 60, 77)',
-    lojasG: 'rgba(75, 192, 192, 1)',
+    terrenos: '#F27405',
+    lojasP: '#6E0BF9',
+    lojasM: '#350973',
+    lojasG: '#331B8C',
   };
   
   const datasets = Object.entries(dados).map(([chave, valores]) => ({
