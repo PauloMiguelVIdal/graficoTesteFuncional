@@ -24,8 +24,11 @@ ChartJS.register(
 
 
 
+
 function App() {
 
+
+  
   return (
     <GenericDatesProvider>
       <Inteface />
