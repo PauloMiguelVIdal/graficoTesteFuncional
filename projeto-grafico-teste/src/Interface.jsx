@@ -126,7 +126,7 @@ export default function Interface() {
       },
       scales: {
         x: {
-          // display:false,
+          display:false,
           grid: {
             display: false, // Remove as linhas da grade no eixo X
           },
@@ -136,9 +136,9 @@ export default function Interface() {
           },
         },
         y: {
-          // display:false,
+          display:false,
           grid: {
-            // display: false, // Remove as linhas da grade no eixo X
+            display: true, // Remove as linhas da grade no eixo X
           },
           beginAtZero: false,
           ticks: {
